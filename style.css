@@ -3,6 +3,33 @@
     margin: 0;
     padding: 0;
 }
+
 #main{
+    width: 98%;
     background-color: #eeeeee;
+    margin-top: 20px;
+    margin-left: 1%;
+    border-radius: 10px;
+}
+
+#title{
+    font-size: 50px;
+    padding: 30px;
+    margin-left: 30%;
+    padding-bottom: 10px;
+}
+
+p{
+    padding: 20px;
+    margin-left: 40%;
+}
+
+#img-div{
+    margin: auto;
+}
+
+#img-div img{
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
 }
