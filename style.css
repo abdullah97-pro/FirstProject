@@ -64,3 +64,9 @@ ul li{
 blockquote{
     font-style: italic;
 }
+
+a{
+    font-size: 25px;
+    text-decoration: none;
+    color: #4f69df;
+}
