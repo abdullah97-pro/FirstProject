@@ -25,11 +25,17 @@ p{
 }
 
 #img-div{
+    width: 98%;
     margin: auto;
+    background-color: #fff;
 }
 
 #img-div img{
     display: block;
     max-width: 100%;
     margin: 0 auto;
+}
+
+#txt{
+    margin-left: 15%;
 }
