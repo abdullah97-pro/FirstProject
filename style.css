@@ -39,3 +39,24 @@ p{
 #txt{
     margin-left: 15%;
 }
+
+#tribute-info{
+    background-color: #eeeeee;
+    
+}
+
+#tribute-info h1{
+    text-align: center;
+    padding: 50px;
+}
+
+ul{
+    width: 40%;
+    line-height: 1.5;
+    text-align: justify;
+    margin-left: 30%;
+}
+
+ul li{
+    margin-bottom: 20px;
+}
